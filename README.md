@@ -56,7 +56,9 @@
 ## 📫 Reach me at
 
 - [LinkedIn](https://linkedin.com/in/gabriel-anunes)  
-- [Email](mailto:almeidagabriel.nunes@gmail.com)  
+- [Email](mailto:almeidagabriel.nunes@gmail.com)
+- [📄 Resume](https://github.com/AlmeidaNunesGabriel/AlmeidaNunesGabriel/blob/main/Resume-GabrielNunes.pdf)
+ 
 
 ---
 
