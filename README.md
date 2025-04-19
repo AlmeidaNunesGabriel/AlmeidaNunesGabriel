@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Gabriel Nunes
 
+
+![GitHub followers](https://img.shields.io/github/followers/AlmeidaNunesGabriel?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/AlmeidaNunesGabriel?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/AlmeidaNunesGabriel/habitTracker?label=Last%20update%20HabitTracker)
+![GitHub top language](https://img.shields.io/github/languages/top/AlmeidaNunesGabriel/habitTracker?label=Top%20Language%20(HabitTracker))
+
+
 🎓 Software Developer transitioning from a background in Law. Currently focused on **mobile app development** and **game development with Unity**.
 
 💡 Passionate about building solutions that are both useful and engaging — from productivity tools to games.
@@ -39,6 +46,12 @@
 | [Álcool ou Gasolina](https://github.com/AlmeidaNunesGabriel/AlcoolGasolina) | Mobile app to calculate best fuel option | React Native |
 
 ---
+
+## 📊 GitHub Stats
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmeidaNunesGabriel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaNunesGabriel&layout=compact&theme=tokyonight)
+
 
 ## 📫 Reach me at
 
