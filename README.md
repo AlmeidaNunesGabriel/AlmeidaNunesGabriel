@@ -44,7 +44,6 @@
 
 - [LinkedIn](https://linkedin.com/in/gabriel-anunes)  
 - [Email](mailto:almeidagabriel.nunes@gmail.com)  
-- [My Resume](https://github.com/AlmeidaNunesGabriel/AlmeidaNunesGabriel/blob/main/Resume.pdf) _(optional)_  
 
 ---
 
