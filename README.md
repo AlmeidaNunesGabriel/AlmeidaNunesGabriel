@@ -40,7 +40,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [HabitTracker](https://github.com/AlmeidaNunesGabriel/habitTracker) | Habit tracking app with React | React, Context API |
+| [HabitTracker](https://github.com/AlmeidaNunesGabriel/habitTracker) | Habit tracking app with React | React, JSONBin.io API |
 | [Álcool ou Gasolina](https://github.com/AlmeidaNunesGabriel/AlcoolGasolina) | Mobile app to calculate best fuel option | React Native |
 | [Conversor de Moedas](https://github.com/AlmeidaNunesGabriel/conversorMoedas) | Currency converter mobile app with real-time rates | React Native, API |
 | [AlethProject](https://github.com/AlmeidaNunesGabriel/AlethProject) | Agent-based simulation using Unity (work in progress) | Unity, C# |
