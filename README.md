@@ -1,63 +1,73 @@
+# 👋 Olá, eu sou o Gabriel Nunes
+
 # 👋 Hi, I'm Gabriel Nunes
 
-![GitHub followers](https://img.shields.io/github/followers/AlmeidaNunesGabriel?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/AlmeidaNunesGabriel?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/AlmeidaNunesGabriel/habitTracker?label=Last%20update%20HabitTracker)
-![GitHub top language](https://img.shields.io/github/languages/top/AlmeidaNunesGabriel/habitTracker?label=Top%20Language%20(HabitTracker))
+### 🎓 Tech Instructor | Software Developer | Tech Auditor
 
-🎓 Software Developer transitioning from a background in Law. Currently focused on **mobile app development** and **game development with Unity**.
-
-💡 Passionate about building solutions that are both useful and engaging — from productivity tools to games.
-
-🧠 Actively learning React Native and Unity with C#, while strengthening my skills in fullstack development.
-
-💼 Instructor of Operating Systems and Programming Logic (C#) in technical education since 2023.
+Atualmente, atuo na formação de novos talentos na área de TI, lecionando disciplinas que fundamentam a construção de softwares robustos e seguros. Meu background em Direito, aliado à tecnologia, me permite ter uma visão analítica única sobre sistemas e processos.
 
 ---
 
-## 🛠️ Tech Stack
+### 🏛️ Áreas de Atuação Acadêmica (Instrutor)
+* **Auditoria de Sistemas:** Foco em segurança, conformidade e integridade de dados.
+* **Gerenciamento de Projetos:** Metodologias ágeis e governança.
+* **Análise e Desenvolvimento de Sistemas (ADS):** Arquitetura e lógica de programação.
 
-- **Languages:** Java, C#, Python, JavaScript  
-- **Mobile:** React Native  
-- **Game Dev:** Unity (learning phase)  
-- **Web:** React, HTML/CSS  
-- **Backend:** Spring Boot, Django  
-- **Databases:** PostgreSQL, Oracle  
-- **Tools:** Git, GitHub, VS Code, Figma  
-
----
-
-## 🎯 Goals for 2025
-
-- Launch my first mobile app on the Play Store 📱  
-- Build and publish a simple game with Unity 🎮  
-- Contribute to open source projects  
-- Land a **remote international developer** role  
+### 🛠️ Projetos Atuais & Pesquisa
+🚀 **[Nome do Jogo Educativo]:** Um projeto autoral focado em gamificação do aprendizado técnico via Web. 
+* *Stack:* JavaScript / TypeScript / Web Engines.
+* *Status:* Em fase de arquitetura e prototipagem.
 
 ---
 
-## 📂 Highlighted Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [HabitTracker](https://github.com/AlmeidaNunesGabriel/habitTracker) | Habit tracking app with React | React, JSONBin.io API |
-| [Álcool ou Gasolina](https://github.com/AlmeidaNunesGabriel/AlcoolGasolina) | Mobile app to calculate best fuel option | React Native |
-| [Conversor de Moedas](https://github.com/AlmeidaNunesGabriel/conversorMoedas) | Currency converter mobile app with real-time rates | React Native, API |
-| [AlethProject](https://github.com/AlmeidaNunesGabriel/AlethProject) | Agent-based simulation using Unity (work in progress) | Unity, C# |
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,git,vscode,mysql" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmeidaNunesGabriel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaNunesGabriel&layout=compact&theme=tokyonight)
-
-## 📫 Reach me at
-
-- [LinkedIn](https://linkedin.com/in/gabriel-anunes)  
-- [Email](mailto:almeidagabriel.nunes@gmail.com)
-- [📄 Resume](https://github.com/AlmeidaNunesGabriel/AlmeidaNunesGabriel/blob/main/Resume-GabrielNunes.pdf)
+### 📊 Por que meu GitHub está passando por mudanças?
+Estou em um processo de curadoria do meu portfólio, migrando o foco de mobile nativo para **soluções Web e GameDev Educativo**, priorizando a qualidade e a relevância acadêmica de cada repositório.
 
 ---
 
-> *“Code is the closest thing we have to magic.”*
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-anunes)
+
+
+### 🎓 Tech Instructor | Software Developer | Tech Auditor
+
+I am a Software Developer and Educator with a background in Law, which provides me with a unique analytical lens for system architecture and compliance. Currently, I shape the next generation of developers by teaching core disciplines that ensure software is robust, secure, and well-managed.
+
+---
+
+### 👨‍🏫 Academic & Instructional Expertise
+Since 2023, I have been lecturing in technical education, focusing on:
+* **System Auditing:** Security, compliance, and data integrity.
+* **Project Management:** Agile methodologies, governance, and documentation.
+* **Systems Analysis & Development (ADS):** C# logic, Operating Systems, and software architecture.
+
+### 🚀 Current Project: Educational Web Game
+I am currently architecting a **Gamified Learning Experience** for the web. This project bridges my passion for education with modern web technologies, aiming to make technical learning engaging and accessible.
+* **Status:** 🏗️ Prototyping & Architecture Phase
+* **Stack:** JavaScript / TypeScript / Web Engines
+
+---
+
+### 🛠️ Technical Ecosystem
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,git,vscode,mysql,linux" />
+</p>
+
+---
+
+### 📉 Portfolio Status (2026)
+I am currently curating my GitHub profile, moving away from legacy mobile projects to focus on high-quality **Web Solutions** and **Educational GameDev**. My goal is to showcase projects that reflect professional standards in auditing and project management.
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-anunes)
+
+
