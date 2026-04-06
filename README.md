@@ -24,7 +24,7 @@ Atualmente, atuo na formação de novos talentos na área de TI, lecionando disc
 ---
 
 ### 📊 Por que meu GitHub está passando por mudanças?
-Estou em um processo de curadoria do meu portfólio, migrando o foco de mobile nativo para **soluções Web e GameDev Educativo**, priorizando a qualidade e a relevância acadêmica de cada repositório.
+Estou em um processo de curadoria do meu portfólio, migrando o foco de mobile nativo para **soluções de automação no linux**, priorizando a qualidade e a relevância acadêmica de cada repositório.
 
 ---
 
@@ -55,7 +55,7 @@ Since 2023, I have been lecturing in technical education, focusing on:
 ---
 
 ### 📉 Portfolio Status (2026)
-I am currently curating my GitHub profile, moving away from legacy mobile projects to focus on high-quality **Web Solutions** and **Educational GameDev**. My goal is to showcase projects that reflect professional standards in auditing and project management.
+I am currently curating my GitHub profile, moving away from legacy mobile projects to focus on high-quality **Linux automation solutions**. My goal is to showcase projects that reflect professional standards in auditing and project management.
 
 ---
 
