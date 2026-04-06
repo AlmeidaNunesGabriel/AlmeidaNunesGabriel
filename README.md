@@ -13,10 +13,6 @@ Atualmente, atuo na formação de novos talentos na área de TI, lecionando disc
 * **Gerenciamento de Projetos:** Metodologias ágeis e governança.
 * **Análise e Desenvolvimento de Sistemas (ADS):** Arquitetura e lógica de programação.
 
-### 🛠️ Projetos Atuais & Pesquisa
-🚀 **[Nome do Jogo Educativo]:** Um projeto autoral focado em gamificação do aprendizado técnico via Web. 
-* *Stack:* JavaScript / TypeScript / Web Engines.
-* *Status:* Em fase de arquitetura e prototipagem.
 
 ---
 
@@ -48,10 +44,6 @@ Since 2023, I have been lecturing in technical education, focusing on:
 * **Project Management:** Agile methodologies, governance, and documentation.
 * **Systems Analysis & Development (ADS):** C# logic, Operating Systems, and software architecture.
 
-### 🚀 Current Project: Educational Web Game
-I am currently architecting a **Gamified Learning Experience** for the web. This project bridges my passion for education with modern web technologies, aiming to make technical learning engaging and accessible.
-* **Status:** 🏗️ Prototyping & Architecture Phase
-* **Stack:** JavaScript / TypeScript / Web Engines
 
 ---
 
